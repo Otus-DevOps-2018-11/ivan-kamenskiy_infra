@@ -1,1 +1,5 @@
-sha256:0018d3636f3058cfdf2bf1bdcd3c611a80d708c98f7975ac7e749c27ce569ccb
+REPOSITORY                   TAG                 IMAGE ID            CREATED             SIZE
+ikamenskiy/ubuntu-tmp-file   latest              0018d3636f30        4 hours ago         117MB
+<none>                       <none>              47bd504b639b        4 hours ago         117MB
+ubuntu                       16.04               7e87e2b3bf7a        2 weeks ago         117MB
+hello-world                  latest              fce289e99eb9        5 weeks ago         1.84kB
