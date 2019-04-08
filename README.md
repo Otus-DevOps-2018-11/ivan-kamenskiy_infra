@@ -16,3 +16,8 @@ ansible-1
 Несколько плейбуков app.yml db.yml deploy.yml
 Создание главного плейбука site.yml
 Создали теперь на их основе плейбуки ansible/packer_app.yml и ansible/packer_db.yml
+
+Ansible-3
+Установка Вагрант
+Создание Vagrantfile
+Изменение конфигураций ansible-4
